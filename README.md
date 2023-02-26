@@ -19,7 +19,7 @@
 - [x] Pancake Sort
 - [x] Cycle Sort
 - [x] Binary Tree Sort
-- [] Smooth Sort
+- [x] Smooth Sort
 - [] Tim Sort
 - [] Library Sort
 - [] Introsort
