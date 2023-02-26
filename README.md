@@ -113,3 +113,78 @@
 - [] Block Merge Sort
 - [] Binary Quicksort
 - [] Tree-based Heap Sort
+- [] Gravity Merge Sort
+- [] Recursive Bubble Sort
+- [] Recursive Insertion Sort
+- [] Recursive Selection Sort
+- [] Binary Radix Sort
+- [] MSD Radix Sort
+- [] LSD Radix Sort (with Counting Sort)
+- [] Cycle Sort (with In-Place Reversal)
+- [] Merge Sort (with Natural Merge)
+- [] Merge Sort (with Bottom-Up Merge)
+- [] Quick Sort (with Median of Medians Pivot Selection)
+- [] Quick Sort (with Random Pivot Selection)
+- [] Quick Sort (with Dual Pivot)
+- [] Heap Sort (with Floyd's Algorithm)
+- [] Heap Sort (with Binary Search to Find Parent/Child)
+- [] Hybrid Quick Sort (with Insertion Sort for Small Sub-Arrays)
+- [] Dual Pivot Radix Sort
+- [] Odd Even Transposition Sort
+- [] Bead Sort (with Ternary Representation)
+- [] Introsort (with Median of 3)
+- [] Introsort (with Random Pivot Selection)
+- [] Introsort (with Heap Sort for Large Arrays)
+- [] Introsort (with Insertion Sort for Small Sub-Arrays)
+- [] Bitonic Merge Sort
+- [] Brick Sort (with Parallel Processing)
+- [] Quick Merge Sort (with Merge Sort for Large Sub-Arrays)
+- [] Quick Merge Sort (with Insertion Sort for Small Sub-Arrays)
+- [] Ternary Merge Sort
+- [] Grailsort (with Block Swap)
+- [] Grailsort (with Parallel Processing)
+- [] Tree Sort (with Splay Tree)
+- [] Tangle Sort
+- [] Bubble Sort (with Optimized Swap Condition)
+- [] Insertion Sort (with Binary Search)
+- [] Insertion Sort (with Shell Sort Increment Sequence)
+- [] Selection Sort (with Binary Search for Minimum)
+- [] Dual Pivot Quick Sort (with Insertion Sort for Small Sub-Arrays)
+- [] Merge Sort (with Top-Down and Bottom-Up Variants)
+- [] Strand Sort
+- [] Swap Sort
+- [] Cycle Sort (with Loop Detection)
+- [] Patience Sort (with Priority Queue)
+- [] Distribution Sort (with Dynamic Arrays)
+- [] Heap Sort (with Recursive Heapify)
+- [] Quick Sort (with Hoare Partition)
+- [] Quick Sort (with Lomuto Partition)
+- [] Quick Sort (with Dutch National Flag Partition)
+- [] Block Quicksort
+- [] Odd-Even Mergesort (with Bitonic Sort)
+- [] Binary Bubble Sort
+- [] Adaptive Selection Sort
+- [] Adaptive Insertion Sort
+- [] Cocktail Shaker Sort (with Insertion Sort)
+- [] Cartesian Tree Merge Sort
+- [] Cartesian Tree Selection Sort
+- [] D-ary Heap Sort
+- [] External Merge Sort
+- [] Insertion Sort (with Shell Sort Increment Sequence)
+- [] Odd Even Selection Sort
+- [] Quick Sort (with Tail Recursion)
+- [] Quick Sort (with Yaroslavskiy's Pivot Selection)
+- [] Shell Sort (with Tokuda's Increment Sequence)
+- [] Smoothsort (with Ratio of 1.303)
+- [] Smoothsort (with Ratio of 1.247)
+- [] Smoothsort (with Ratio of 1.465)
+- [] Weak Heap Sort
+- [] Pairing Heap Sort
+- [] Batch Merge Sort
+- [] Binary Insertion Merge Sort
+- [] Binary Quick Merge Sort
+- [] Radix Sort (with In-Place Counting Sort)
+- [] Radix Sort (with MSD and In-Place Counting Sort)
+- [] Radix Sort (with LSD and Insertion Sort)
+- [] Bubble Sort (with Shaker Sort Variant)
+- [] Cocktail Shaker Sort (with Shell Sort Increment Sequence)
