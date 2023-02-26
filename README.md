@@ -63,3 +63,53 @@
 - [] Binary Heap Sort
 - [] Cartesian Tree Sorting
 - [] Hybrid Merge Insertion Sort
+- [] Flashsort
+- [] Binary Insertion Sort
+- [] Max Heap Sort
+- [] Min Heap Sort
+- [] Smoothsort
+- [] Tree Sort
+- [] Tournament Sort
+- [] Radix Exchange Sort
+- [] Pigeonhole Sort
+- [] Bucket Sort (with Randomized Hashing)
+- [] Block Sort
+- [] Red-Black Tree Sort
+- [] Fibonacci Heap Sort
+- [] Pairwise Sorting Networks
+- [] Ternary Heap Sort
+- [] Library Sort (with Comb Sort)
+- [] Quick Merge Sort
+- [] Shaker Sort
+- [] Grail Sort
+- [] Cycle Sort (with Minimum Writes)
+- [] Radix LSD Sort
+- [] Radix MSD Sort
+- [] Stupid Sort
+- [] Shell Sort (with Sedgewick's Increments)
+- [] Comb Sort (with Fibonacci Increments)
+- [] Triplet Sort
+- [] Cocktail Shaker Sort (with Shellsort)
+- [] Smoothsort (with Smoothsort Tree)
+- [] Hybrid Quick Sort
+- [] Quick Sort (with 3-way Partition)
+- [] Bubble Merge Sort
+- [] Circle Sort
+- [] Quadsort
+- [] Merge Insertion Sort
+- [] Merge Sort (with Insertion Sort)
+- [] Library Sort (with Shell Sort)
+- [] Tag Sort
+- [] Spread Sort
+- [] Symmetry Sorting
+- [] Binary Merge Sort
+- [] Adaptive Radix Sort
+- [] Counting Radix Sort
+- [] Binary Selection Sort
+- [] Insertion Merge Sort
+- [] Merge Selection Sort
+- [] Odd Even Merge Sort
+- [] Slowsort
+- [] Block Merge Sort
+- [] Binary Quicksort
+- [] Tree-based Heap Sort
