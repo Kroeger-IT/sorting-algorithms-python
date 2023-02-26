@@ -22,7 +22,7 @@
 - [x] Smooth Sort
 - [x] Tim Sort
 - [x] Library Sort
-- [] Introsort
+- [x] Introsort
 - [] Patience Sort
 - [] Bead Sort
 - [] Flash Sort
