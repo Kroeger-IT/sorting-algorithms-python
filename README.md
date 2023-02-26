@@ -43,3 +43,23 @@
 - [] Postman Sort
 - [] Shear Sort
 - [] WikiSort
+- [] Cocktail Shaker Sort (also known as Bidirectional Bubble Sort)
+- [] Bead Sort (also known as Gravity Sort)
+- [] Shell Sort with Knuth's increments
+- [] American Flag Sort
+- [] Cube Sort
+- [] Pancake Sorting Network
+- [] Batcher's Odd-Even Mergesort
+- [] Spaghetti Sorting
+- [] Monkey Sort
+- [] Slow Sort
+- [] Optimized Gnome Sort
+- [] Timsort Hybrid
+- [] Tree Sort
+- [] Binary Insertion Sort
+- [] Smoothsort Standard
+- [] Library Insertion Sort
+- [] Unoptimized Strand Sort
+- [] Binary Heap Sort
+- [] Cartesian Tree Sorting
+- [] Hybrid Merge Insertion Sort
