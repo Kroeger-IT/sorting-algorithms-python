@@ -28,7 +28,7 @@
 - [x] Flash Sort
 - [x] Pigeonhole Sort
 - [x] Spaghetti Sort
-- [] Brick Sort
+- [x] Brick Sort
 - [] Bogo Sort
 - [] Bogosort
 - [] Stooge Sort
