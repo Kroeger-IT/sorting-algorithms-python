@@ -24,7 +24,7 @@
 - [x] Library Sort
 - [x] Introsort
 - [x] Patience Sort
-- [] Bead Sort
+- [x] Bead Sort
 - [] Flash Sort
 - [] Pigeonhole Sort
 - [] Spaghetti Sort
