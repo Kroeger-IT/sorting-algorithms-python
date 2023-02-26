@@ -20,7 +20,7 @@
 - [x] Cycle Sort
 - [x] Binary Tree Sort
 - [x] Smooth Sort
-- [] Tim Sort
+- [x] Tim Sort
 - [] Library Sort
 - [] Introsort
 - [] Patience Sort
