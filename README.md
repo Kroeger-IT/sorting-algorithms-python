@@ -25,7 +25,7 @@
 - [x] Introsort
 - [x] Patience Sort
 - [x] Bead Sort
-- [] Flash Sort
+- [x] Flash Sort
 - [] Pigeonhole Sort
 - [] Spaghetti Sort
 - [] Brick Sort
