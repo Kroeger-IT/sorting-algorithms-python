@@ -21,7 +21,7 @@
 - [x] Binary Tree Sort
 - [x] Smooth Sort
 - [x] Tim Sort
-- [] Library Sort
+- [x] Library Sort
 - [] Introsort
 - [] Patience Sort
 - [] Bead Sort
