@@ -16,7 +16,7 @@
 - [x] Merge Sort
 - [x] Quick Sort
 - [x] Shell Sort
-- [] Pancake Sort
+- [x] Pancake Sort
 - [] Cycle Sort
 - [] Binary Tree Sort
 - [] Smooth Sort
