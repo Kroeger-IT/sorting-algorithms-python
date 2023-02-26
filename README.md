@@ -18,7 +18,7 @@
 - [x] Shell Sort
 - [x] Pancake Sort
 - [x] Cycle Sort
-- [] Binary Tree Sort
+- [x] Binary Tree Sort
 - [] Smooth Sort
 - [] Tim Sort
 - [] Library Sort
